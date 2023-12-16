@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "facing=down,powered=false": {
+      "model": "strong:block/observer2",
+      "x": 90
+    },
+    "facing=down,powered=true": {
+      "model": "strong:block/observer2_on",
+      "x": 90
+    },
+    "facing=east,powered=false": {
+      "model": "strong:block/observer2",
+      "y": 90
+    },
+    "facing=east,powered=true": {
+      "model": "strong:block/observer2_on",
+      "y": 90
+    },
+    "facing=north,powered=false": {
+      "model": "strong:block/observer2"
+    },
+    "facing=north,powered=true": {
+      "model": "strong:block/observer2_on"
+    },
+    "facing=south,powered=false": {
+      "model": "strong:block/observer2",
+      "y": 180
+    },
+    "facing=south,powered=true": {
+      "model": "strong:block/observer2_on",
+      "y": 180
+    },
+    "facing=up,powered=false": {
+      "model": "strong:block/observer2",
+      "x": 270
+    },
+    "facing=up,powered=true": {
+      "model": "strong:block/observer2_on",
+      "x": 270
+    },
+    "facing=west,powered=false": {
+      "model": "strong:block/observer2",
+      "y": 270
+    },
+    "facing=west,powered=true": {
+      "model": "strong:block/observer2_on",
+      "y": 270
+    }
+  }
+}
